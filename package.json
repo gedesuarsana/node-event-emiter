@@ -1,0 +1,23 @@
+{
+  "name": "event-emiter",
+  "version": "1.0.0",
+  "description": "this project for showing how to implement event emiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gedesuarsana/node-event-emiter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gedesuarsana/node-event-emiter/issues"
+  },
+  "homepage": "https://github.com/gedesuarsana/node-event-emiter#readme",
+  "dependencies": {
+    "event": "^1.0.0"
+  }
+}
